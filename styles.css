@@ -1,0 +1,15 @@
+.gallery-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button {
+    font-size: 24px;
+  }
+  
+  #currentImg {
+    max-width: 80%;
+    max-height: 80vh;
+  }
+  
